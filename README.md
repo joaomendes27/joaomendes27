@@ -3,7 +3,7 @@
 🎓 Student of Information Systems at Universidade Santa Cecília.  
 💻 Passionate about technology, always looking to improve and learn new skills.
 
-## Main technologies I use:
+## Most used languages:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -13,11 +13,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormendeslima&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomendes27&layout=compact&theme=radical)
 
 ## My activity:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovictormendeslima&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomendes27&theme=react-dark)
 
 📫 Gmail: joaovictormendeslima4@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/joaovictormendeslima/)
