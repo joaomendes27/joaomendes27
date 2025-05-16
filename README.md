@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, my name is João Mendes 👋
 
-<!--
-**joaomendes27/joaomendes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student of Information Systems at Universidade Santa Cecília.  
+💻 Passionate about technology, always looking to improve and learn new skills.
 
-Here are some ideas to get you started:
+## Main technologies I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormendeslima&layout=compact&theme=radical)
+
+## My activity:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovictormendeslima&theme=react-dark)
+
+📫 Gmail: joaovictormendeslima4@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/joaovictormendeslima/)
+
+## Get in touch with me:
+
+<p>
+  <a href="https://www.linkedin.com/in/joaovictormendeslima/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaovictormendeslima4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
