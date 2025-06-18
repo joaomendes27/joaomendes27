@@ -1,5 +1,6 @@
 # Hello, my name is João Mendes 👋
 
+👨🏽‍💻 Estagiário de Desenvolvimento RPA na @Mosten. <br>
 🎓 Student of Information Systems at Universidade Santa Cecília.  
 💻 Passionate about technology, always looking to improve and learn new skills.
 
