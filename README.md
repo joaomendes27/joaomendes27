@@ -10,7 +10,11 @@
 
 ## My activity:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomendes27&theme=react-dark)
+## My activity:
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomendes27&theme=2077" width="75%" alt="stats graph"/>
+</div>
 
 ## Get in touch with me:
 
