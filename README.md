@@ -2,7 +2,7 @@
 
 👨🏽‍💻 Software Developer Intern at @Mosten. <br>
 🎓 Student of Information Systems at Universidade Santa Cecília.  
-💻 Passionate about technology, always looking to improve and learn new skills.
+💻 Passionate about technology, always looking to improve and learn new skills.<br>
 🌐 Portfolio: https://joaomendes27.github.io/portfolio/
 
 ## Most used languages:
