@@ -1,22 +1,22 @@
-# Hello, my name is João Mendes 👋
+# Olá, meu nome é João Mendes 👋
 
-👨🏽‍💻 Software Developer Intern at @Mosten. <br>
-🎓 Student of Information Systems at Universidade Santa Cecília.  
-💻 Passionate about technology, always looking to improve and learn new skills.<br>
-🌐 Portfolio: https://joaomendes27.github.io/portfolio/
+👨🏽‍💻Desenvolvedor de Software na @Mosten. <br>
+🎓 Estudante de Sistemas de Informação na Universidade Santa Cecília.
+💻 Apaixonado por tecnologia, sempre buscando melhorar e aprender novas habilidades.<br>
+🌐 Portfólio: https://joaomendes27.github.io/portfolio/
 
-## Most used languages:
+## Linguagens mais usadas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomendes27&layout=compact&theme=radical)
 
 
-## My activity:
+## Minha atividade:
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomendes27&theme=2077" width="75%" alt="stats graph"/>
 </div>
 
-## Get in touch with me:
+## Entre em contato comigo:
 
 <p>
   <a href="https://www.linkedin.com/in/joaovictormendeslima/">
