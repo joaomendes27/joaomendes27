@@ -1,6 +1,6 @@
 # Olá, meu nome é João Mendes 👋
 
-👨🏽‍💻Desenvolvedor de Software na @Mosten. <br>
+👨🏽‍💻Desenvolvedor Fullstack na @Mosten. <br>
 🎓 Estudante de Sistemas de Informação na Universidade Santa Cecília. <br>
 💻 Apaixonado por tecnologia, sempre buscando melhorar e aprender novas habilidades.<br>
 🌐 Portfólio: https://joaomendes27.github.io/portfolio/
