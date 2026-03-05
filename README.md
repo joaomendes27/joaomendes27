@@ -7,7 +7,7 @@
 
 ## Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomendes27&langs_count=10&theme=dark&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaomendes27&theme=dark)
 
 
 ## Minha atividade:
