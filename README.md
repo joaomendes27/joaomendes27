@@ -1,8 +1,5 @@
 # Olá, meu nome é João Mendes 👋
 
-👨🏽‍💻Desenvolvedor Fullstack na @Mosten. <br>
-🎓 Estudante de Sistemas de Informação na Universidade Santa Cecília. <br>
-💻 Apaixonado por tecnologia, sempre buscando melhorar e aprender novas habilidades.<br>
 🌐 Meu Currículo: [https://drive.google.com/file/d/1LY73NrSbXF51V65vXO5I608dr9AGME7Y/view?usp=sharing](https://drive.google.com/file/d/1LY73NrSbXF51V65vXO5I608dr9AGME7Y/view?usp=sharing)
 
 ## Linguagens mais usadas:
