@@ -1,6 +1,6 @@
 # Olá, meu nome é João Mendes 👋
 
-🌐 Meu Currículo: [https://drive.google.com/file/d/1LY73NrSbXF51V65vXO5I608dr9AGME7Y/view?usp=sharing](https://drive.google.com/file/d/1LY73NrSbXF51V65vXO5I608dr9AGME7Y/view?usp=sharing)
+🌐 Meu Currículo: https://drive.google.com/file/d/1v5YrKmlh54C0quQP_gH9aq2CIpz9OAbt/view?usp=sharing
 
 ## Linguagens mais usadas:
 
